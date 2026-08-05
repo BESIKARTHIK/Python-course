@@ -1,0 +1,19 @@
+1st day of python class:
+
+Class:
+The structure of the code or the blue print of the code
+
+Method:
+It is instance of the class
+
+Inheritance:
+To inherit properties form the parent class to child class
+
+Encapsulation:
+For wrapping the data
+
+Polymorphism:
+To use the same actions for different applications
+
+Abstraction:
+Hide the  complexity one and show the relevant one

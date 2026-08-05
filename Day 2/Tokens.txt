@@ -1,0 +1,7 @@
+Tokens : A small unit of the program
+inside tokens we have five categories in it 
+1 identifiers: A function name or a class name 
+2 operators : operator contains arthimetica operators like +,-,= and gate operators like AND,OR,NOR
+3 literals: values
+4 key words : the inbuilt statements like if else conditional statements
+5 punctuators: special characters like "",(),[].
