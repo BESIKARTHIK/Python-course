@@ -1,0 +1,7 @@
+operators:
+1.Arthimetic operators:it contains mathematical operators like +,-,*,**,/,//,%.
+2.comparision operators:it contains operators like>,<,>=,<=,-=,*= to compare.
+3.Assignment operators:it is used to assign the values like a = 20,a = a+20,a+=20.
+4.Relational operators:it is used by logical gates like and, or, not, is , isnot.
+5.Member ship operator:The operator can be accesed by string list tuple set dict  and we can chech the logical gates.
+6.identical operator:
